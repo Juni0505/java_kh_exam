@@ -3,6 +3,7 @@
 
 abc.txt
 *.properties
+
 # Log file
 *.log
 
