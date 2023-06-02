@@ -1,9 +1,9 @@
 # Compiled class file
 *.class
-bin/
 
 abc.txt
 *.properties
+bin/
 
 # Log file
 *.log
